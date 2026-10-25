@@ -1,0 +1,8 @@
+{
+    "name": "Start & Go -Robotique",
+
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "remoteUser": "Pierre&Jianrong"
+}
